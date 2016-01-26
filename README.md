@@ -1,5 +1,4 @@
-# EE204 - Signals &amp; Systems
-## MEF University (2015-2016 Spring)
+## MEF University, EE204 - Signals &amp; Systems (2015-2016 Spring)
 This is the repository for EE204 that will be updated though out the semester.
 
 #### MATLAB
